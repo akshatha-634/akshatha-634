@@ -1,16 +1,15 @@
-## Hi there 👋
+### Akshatha - DevOps Engineer
 
-<!--
-**akshatha-634/akshatha-634** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I automate deployments: 15 mins manual → 2 mins with GitHub Actions CI/CD**
 
-Here are some ideas to get you started:
+**Live Projects:**
+- [WebSocket App on AWS](https://github.com/akshatha-634/WebSocket-App-Deployment) - Docker + Nginx + GitHub Actions + Zero-downtime
+- [React + Jenkins CI/CD](https://github.com/akshatha-634/react-app-deployment) - Multistage Docker + AWS EC2 + Automated rollback
+- [Incident Management System](https://github.com/akshatha-634/IMS-Project) - FastAPI + React + Docker Compose
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** `AWS` `Docker` `Jenkins` `GitHub Actions` `Linux` `Bash` `nginx`
+
+**Certification:** NASSCOM FutureSkills Prime - Cloud Computing & DevOps, Gold 91/100
+
+**Open to:** 3-month paid internship ₹20-25k/month | **Start:** This week  
+**Contact:** [LinkedIn](https://linkedin.com/in/akshatha-poojari) | akshathapoojari.cloud@gmail.com
