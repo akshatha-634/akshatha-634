@@ -1,4 +1,5 @@
-### Akshatha - DevOps Engineer
+# Hey, I'm Akshatha 👋 
+### DevOps Engineer
 
 **I automate deployments: 15 mins manual → 2 mins with GitHub Actions CI/CD**
 
