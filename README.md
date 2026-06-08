@@ -8,7 +8,8 @@
 - [React + Jenkins CI/CD](https://github.com/akshatha-634/react-app-deployment) - Multistage Docker + AWS EC2 + Automated rollback
 - [Incident Management System](https://github.com/akshatha-634/IMS-Project) - FastAPI + React + Docker Compose
 
-**Stack:** `AWS` `Docker` `Jenkins` `GitHub Actions` `Linux` `Bash` `nginx`
+## What I work with
+`AWS` `Docker` `Kubernetes` `Terraform` `Jenkins` `GitHub Actions` `Linux` `Bash` `Prometheus` `Grafana` `nginx`
 
 ## Certifications
 NASSCOM FutureSkills Prime — Cloud Computing & DevOps (Gold, 91/100)
