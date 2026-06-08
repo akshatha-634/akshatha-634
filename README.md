@@ -10,7 +10,10 @@
 
 **Stack:** `AWS` `Docker` `Jenkins` `GitHub Actions` `Linux` `Bash` `nginx`
 
-**Certification:** NASSCOM FutureSkills Prime - Cloud Computing & DevOps, Gold 91/100
+## Certifications
+NASSCOM FutureSkills Prime — Cloud Computing & DevOps (Gold, 91/100)
 
-**Open to:** 3-month paid internship ₹20-25k/month | **Start:** This week  
-**Contact:** [LinkedIn](https://linkedin.com/in/akshatha-poojari) | akshathapoojari.cloud@gmail.com
+## Let's connect
+Open to entry-level DevOps / Cloud / SRE roles.
+📧 Reach me on [LinkedIn](https://linkedin.com/in/akshatha-poojari)
+| akshathapoojari.cloud@gmail.com
